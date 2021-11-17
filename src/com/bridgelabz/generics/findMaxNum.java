@@ -1,7 +1,7 @@
 package com.bridgelabz.generics;
 
 public class findMaxNum {
-	static Integer[] arr = { 1, 3, 2 };
+	static Integer[] arr = { 3, 1, 2 };
 
 	public static void main(String[] args) {
 		int max;
